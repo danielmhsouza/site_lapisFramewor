@@ -1,0 +1,2 @@
+10.48.195.1 - - [22/Nov/2022:03:59:54 +0000] "GET / HTTP/1.1" 200 123 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+10.48.195.1 - - [22/Nov/2022:03:59:55 +0000] "GET /favicon.ico HTTP/1.1" 404 561 "http://10.48.195.43:8080/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
